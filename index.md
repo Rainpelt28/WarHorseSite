@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome
 
 Welcome to War Horse: The Game
 
 
 
-# Header 1
+# Play Game
 The Game
